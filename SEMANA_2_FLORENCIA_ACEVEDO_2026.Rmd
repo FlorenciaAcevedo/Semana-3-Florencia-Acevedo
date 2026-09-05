@@ -39,3 +39,4 @@ mean(ChickWeight$weight)
 ```
 
 Este informe presenta un análisis reproducible realizado utilizando R.
+El análisis permitió observar la evolución del peso de los pollitos a lo largo del tiempo.
