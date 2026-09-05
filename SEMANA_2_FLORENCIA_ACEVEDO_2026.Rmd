@@ -32,4 +32,10 @@ plot(ChickWeight$Time, ChickWeight$weight,
      ylab = "Peso")
 ```
 
+
+## Media del peso de los pollitos
+```{r, echo=FALSE}
+mean(ChickWeight$weight)
+```
+
 Este informe presenta un análisis reproducible realizado utilizando R.
