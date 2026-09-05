@@ -3,7 +3,7 @@ title: "TAREA_1_FLORENCIA ACEVEDO_2026"
 author: "Florencia Acevedo Deligdisch"
 date: "`r Sys.Date()`"
 output: html_document
----
+---     
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -32,3 +32,4 @@ plot(ChickWeight$Time, ChickWeight$weight,
      ylab = "Peso")
 ```
 
+Este informe presenta un análisis reproducible realizado utilizando R.
